@@ -1,11 +1,1 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  Twittermenti
-
-
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+Please note you will need to incorporate the https://github.com/mattdonnelly/Swifter framework, this is used to get the tweets from the twitter API
